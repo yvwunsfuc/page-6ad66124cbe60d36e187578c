@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.bmzee.cn/sitemap.xml
